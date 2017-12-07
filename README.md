@@ -1,1 +1,2 @@
-# Coursera_Data_Structure_and_Algorithms
+Cousera上数据结构课程的代码，作业难求子着，我太垃圾。
+###
